@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">lable_only</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="checkbox1">塞音化</string>
+    <string name="checkbox2">母音化</string>
+    <string name="checkbox3">母音省略</string>
+    <string name="checkbox4">舌前音化</string>
+    <string name="checkbox5">舌根音化</string>
+    <string name="checkbox6">不送氣音化</string>
+    <string name="checkbox7">聲隨韻母</string>
+    <string name="checkbox8">扭曲音</string>
+    <string name="checkbox9">齒間音</string>
+    <string name="checkbox10">子音省略</string>
+    <string name="checkbox11">擦音化</string>
+    <string name="checkbox12">介音省略</string>
+    <string name="checkbox13">塞擦音化</string>
+    <string name="checkbox14">複韻母省略</string>
+    <string name="checkbox15">其他</string>
+    <string name="textFileName">k1_1_1_1.wav</string>
+    <string name="textClassName">塞擦音化</string>
+
+</resources>
